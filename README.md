@@ -50,11 +50,11 @@ Press q to exit the application.
 ## Example & Reference Images
 (Replace the above URL with an actual screenshot from your app if you like.)
 
-![Example Screenshot](images/example1.png)
-
-Another view of side:
-
-![Another Example](images/example2.jpg)
+![Example Screenshot](Images/Nutral.png)
+![Example Screenshot](Images/Smiling.png)
+![Example Screenshot](Images/Stressed.png)
+![Example Screenshot](Images/Angry.png)
+![Example Screenshot](Images/Sad.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
