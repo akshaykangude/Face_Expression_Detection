@@ -47,8 +47,14 @@ Press q to exit the application.
 - Distances between key facial points (mouth, eyes, eyebrows) are measured
 - Expressions are classified based on these measurements and displayed on the video
 
-## Example
+## Example & Reference Images
 (Replace the above URL with an actual screenshot from your app if you like.)
+
+![Example Screenshot](images/example1.png)
+
+Another view:
+
+![Another Example](images/example2.jpg)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
