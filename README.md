@@ -48,13 +48,21 @@ Press q to exit the application.
 - Expressions are classified based on these measurements and displayed on the video
 
 ## Example & Reference Images
-(Replace the above URL with an actual screenshot from your app if you like.)
 
-![Example Screenshot](Images/Nutral.png)
-![Example Screenshot](Images/Smiling.png)
-![Example Screenshot](Images/Stressed.png)
-![Example Screenshot](Images/Angry.png)
-![Example Screenshot](Images/Sad.png)
+**Neutral**  
+![Neutral Expression](Images/Nutral.png)
+
+**Smiling**  
+![Smiling Expression](Images/Smiling.png)
+
+**Stressed**  
+![Stressed Expression](Images/Stressed.png)
+
+**Angry**  
+![Angry Expression](Images/Angry.png)
+
+**Sad**  
+![Sad Expression](Images/Sad.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
