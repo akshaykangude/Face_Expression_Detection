@@ -52,7 +52,7 @@ Press q to exit the application.
 
 ![Example Screenshot](images/example1.png)
 
-Another view:
+Another view of side:
 
 ![Another Example](images/example2.jpg)
 
